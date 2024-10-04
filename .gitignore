@@ -1,0 +1,10 @@
+# Ignorar la carpeta _pycache_
+__pycache__/
+
+# Ignorar los archivos con :Zone.Identifier en su nombre
+*spotify_dataset.csv:Zone.Identifier*
+*the_grammy_awards.csv:Zone.Identifier*
+*README:Zone.Identifier*
+
+# Ignorar la carpeta venv
+venv/
